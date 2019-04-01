@@ -1,5 +1,0 @@
-{
-    "webcredentials":{
-        "apps":["TPA2A53NP7.com.guixingdongli.MedicalCharge"]
-    }
-}
